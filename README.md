@@ -16,3 +16,8 @@ MainSreen
 
 
 ![mainScrean](https://github.com/anas1ezz0/todo-app/assets/115151453/b5b09bbf-5c77-4889-9656-0138ef495ace)
+
+DoneScreen
+
+
+![doneScrean](https://github.com/anas1ezz0/todo-app/assets/115151453/42e08b34-59ad-4f47-bc09-e05296a88253)

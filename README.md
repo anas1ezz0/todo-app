@@ -12,5 +12,7 @@ Ability to change the default theme for the whole app
 
 # Screen Shots
 
-MainSCreen
+MainSreen
+
+
 ![mainScrean](https://github.com/anas1ezz0/todo-app/assets/115151453/b5b09bbf-5c77-4889-9656-0138ef495ace)

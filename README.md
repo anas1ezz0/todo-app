@@ -21,3 +21,10 @@ DoneScreen
 
 
 ![doneScrean](https://github.com/anas1ezz0/todo-app/assets/115151453/42e08b34-59ad-4f47-bc09-e05296a88253)
+
+ArchiveScreen
+
+
+![archive](https://github.com/anas1ezz0/todo-app/assets/115151453/9ce7a501-e717-45d9-8ddd-41e0091b7a10)
+
+
